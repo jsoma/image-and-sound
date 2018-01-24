@@ -6,5 +6,5 @@ This is me making a change to this file.
 
 <<<<<<< HEAD
 I'm back again for some trouble!
-=======
->>>>>>> 2ac0faa9911daa7cd014e024b8ca4bb4390d9266
+
+And HERE is me making ANOTHER CHANGE because I'm caPRICIOUS 🦀
